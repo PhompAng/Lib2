@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lib2</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="staff">Staff</string>
+    <string name="member">Member</string>
+    <string name="book">Book</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="name">Name</string>
+    <string name="author">Author</string>
+    <string name="borrow">Borrow</string>
+    <string name="report">Report</string>
+</resources>
